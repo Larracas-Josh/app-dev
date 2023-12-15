@@ -1,16 +1,18 @@
-# app-dev
-| Movies/Series | Description |
-| ----------- | ----------- |
-| Chronicles | Telekenesis |
-| Pirates of the Caribbean  | Pirate | 
-| Hyouka | Mystery | 
+# My Favorite Movies and Series
 
-- Apples
-- Bananas
+## Movies/Series
+| Title                   | Description  |
+| ----------------------- | ------------ |
+| Chronicles              | Telekinesis  |
+| Pirates of the Caribbean | Pirate       |
+| Hyouka                  | Mystery      |
 
-1. First item
-2. Second item
+## Top 3 Movies
+1. Chronicles
+   - Genre: Telekinesis
 
-# Hello, Markdown!
-## Sample Heading
-### Subheading
+2. Pirates of the Caribbean
+   - Genre: Pirate
+
+3. Hyouka
+   - Genre: Mystery
