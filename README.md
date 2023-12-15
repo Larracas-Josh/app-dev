@@ -1,2 +1,6 @@
 # app-dev
-My first repository
+| Movies/Series | Description |
+| ----------- | ----------- |
+| Chronicles | Telekenesis |
+| Pirates of the Caribbean  | Pirate | 
+| Hyouka | Mystery | 
